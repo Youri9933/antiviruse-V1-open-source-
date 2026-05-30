@@ -1,0 +1,48 @@
+# Compilation C
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.dylib
+build/
+dist/
+*.pyc
+
+# Python
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs et données
+*.log
+logs/
+quarantine/
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Configuration locale
+config/local.json
+
+# Autres projets (ne pas inclure sur GitHub)
+antivirusse maison/
+celoisirs/
+site random meme/
+app_vue.py
+blog_views_fast.log
+build/

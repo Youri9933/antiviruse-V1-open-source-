@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "last_update": "2026-05-30T00:00:00",
+  "count": 3,
+  "signatures": [
+    {
+      "hash": "5d41402abc4b2a76b9719d911017c592",
+      "type": "sha256",
+      "threat": "EICAR-Test-File",
+      "description": "Fichier de test EICAR standard",
+      "date_added": "2026-05-30T00:00:00"
+    },
+    {
+      "hash": "6512bd43d9caa6e02c990b0a82652dca",
+      "type": "sha256",
+      "threat": "Gen.Malware.Sample",
+      "description": "Malware générique de test",
+      "date_added": "2026-05-30T00:00:00"
+    },
+    {
+      "hash": "9f107d0431f2af3a3b50f6aae3a3c7b9",
+      "type": "sha256",
+      "threat": "Trojan.Generic",
+      "description": "Trojan générique",
+      "date_added": "2026-05-30T00:00:00"
+    }
+  ]
+}

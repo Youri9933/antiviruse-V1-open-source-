@@ -1,0 +1,16 @@
+{
+  "scan_paths": [
+    "C:\\Users",
+    "C:\\ProgramData"
+  ],
+  "quarantine_enabled": true,
+  "quarantine_path": "quarantine",
+  "auto_clean": false,
+  "log_level": "INFO",
+  "suspicious_patterns": [
+    "*.exe",
+    "*.dll",
+    "*.scr",
+    "*.bat"
+  ]
+}
